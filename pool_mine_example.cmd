@@ -16,9 +16,9 @@
 :: Smaller pools also often have smaller fees/payout limits.
 
 cd /d "%~dp0"
-xmrig.exe -o xmrpool.eu : 9999 -u 87daRKdgpZEHPLNQnL4YvkgBz5XKVkyF7MmimuTEARAt8dgBc19wUjWaaz3L2fBaitdzYXmbgCYZUGXyQfrW24EnNLinQhJ -p x
+xmrig.exe -o xmrpool.eu : 9999 -u 87G4X85m5QddXWMQFppMkFazJKv56wko8LUwwgkicLKRgZ2rgKNfMcUAR3iDV7MHnLVEgWDhZstkzQue9EnVP2EX2otwB8i -p x
 pause
 
 cd /d "%~dp0"
-xmrig.exe -o pool.supportxmr.com:443 -u 87daRKdgpZEHPLNQnL4YvkgBz5XKVkyF7MmimuTEARAt8dgBc19wUjWaaz3L2fBaitdzYXmbgCYZUGXyQfrW24EnNLinQhJ -p x
+xmrig.exe -o pool.supportxmr.com:443 -u 87G4X85m5QddXWMQFppMkFazJKv56wko8LUwwgkicLKRgZ2rgKNfMcUAR3iDV7MHnLVEgWDhZstkzQue9EnVP2EX2otwB8i -p x
 pause
