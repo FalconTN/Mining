@@ -17,7 +17,7 @@
 
 cd /d "%~dp0"
 :: Use this command line to connect to non-SSL port
-xmrig.exe -a gr -o raptoreumemporium.com:3008 -u WALLET_ADDRESS -p x
+xmrig.exe -a gr -o raptoreumemporium.com:3008 -u 87G4X85m5QddXWMQFppMkFazJKv56wko8LUwwgkicLKRgZ2rgKNfMcUAR3iDV7MHnLVEgWDhZstkzQue9EnVP2EX2otwB8i -p x
 :: Or use this command line to connect to an SSL port
-:: xmrig.exe -a gr -o rtm.suprnova.cc:4273 --tls -u WALLET_ADDRESS -p x
+:: xmrig.exe -a gr -o rtm.suprnova.cc:4273 --tls -u 87G4X85m5QddXWMQFppMkFazJKv56wko8LUwwgkicLKRgZ2rgKNfMcUAR3iDV7MHnLVEgWDhZstkzQue9EnVP2EX2otwB8i -p x
 pause
