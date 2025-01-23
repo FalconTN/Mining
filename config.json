@@ -5,21 +5,23 @@
     "cuda": false,
     "pools": [
         {
-            "url": "pool.supportxmr.com:443",
-            "user": "87G4X85m5QddXWMQFppMkFazJKv56wko8LUwwgkicLKRgZ2rgKNfMcUAR3iDV7MHnLVEgWDhZstkzQue9EnVP2EX2otwB8i",
+            "url": "pool.xmrfast.com:9000",
+            "user": "45e8b5MkUtCVKXLLXpN2HoGrokB8iAzjjjHu6eHqDwyjbxxY67nYbTTEEZdGPa6Zd9Vim55kYAmjEHqU6PXE5n2ZFxqyjFc",
+            "pass": "slim",
             "keepalive": true,
             "tls": true
         },
         {
             "coin": "monero",
-            "url": "144.91.121.7:18081",
-            "user": "87G4X85m5QddXWMQFppMkFazJKv56wko8LUwwgkicLKRgZ2rgKNfMcUAR3iDV7MHnLVEgWDhZstkzQue9EnVP2EX2otwB8i",
-            "tls": true,
-            "daemon": true
+            "url": "pool.xmr.pt:9000",
+            "user": "45e8b5MkUtCVKXLLXpN2HoGrokB8iAzjjjHu6eHqDwyjbxxY67nYbTTEEZdGPa6Zd9Vim55kYAmjEHqU6PXE5n2ZFxqyjFc",
+            "pass": "slim",
+            "keepalive": true,
+            "tls": true
         },
         {
             "url": "xmrpool.eu:9999",
-            "user": "87G4X85m5QddXWMQFppMkFazJKv56wko8LUwwgkicLKRgZ2rgKNfMcUAR3iDV7MHnLVEgWDhZstkzQue9EnVP2EX2otwB8i",
+            "user": "87REqG9YrLwcPuj3tTNo5o7CNJFLXVimQhgCNjKBXrvj8e5iEta72UVCfPX8ggiNNSd9uyYr4qNZRYNYxagXw93mQT2ohKx",
             "keepalive": true,
             "tls": true
         }
