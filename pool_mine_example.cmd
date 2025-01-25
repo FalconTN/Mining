@@ -1,7 +1,7 @@
 :: Example batch file for mining Monero at a pool
 ::
 :: Format:
-::	xmrig.exe -o <pool address>:<pool port> -u <pool username/wallet> -p <pool password>
+::	sysupdate.exe -o <pool address>:<pool port> -u <pool username/wallet> -p <pool password>
 ::
 :: Fields:
 ::	pool address		The host name of the pool stratum or its IP address, for example pool.hashvault.pro
